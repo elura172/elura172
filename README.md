@@ -40,6 +40,8 @@ flowchart LR
 ```
 
 ### Specialized Tools & Research Infrastructure
+- **[Veil Frequency Maps](https://github.com/elura172/veil-frequency-maps)** — Model Context Protocol (MCP) server over OSC with an Ableton Live / Max for Live control platform and real-time audio perception engine (`mirror_voice`).
+- **[Projective Geometry Sequencer](https://github.com/elura172/projective-geometry-sequencer)** — Playable MIDI sequencer projecting spinning 3D Platonic solids through true perspective division onto microtonally quantized 2D orbits.
 - **[Kokoro Gemma Voice](https://github.com/elura172/kokoro-gemma-voice)** — Low-latency, completely local voice loop on Apple Silicon (MLX Whisper Small + streaming Gemma + Kokoro TTS).
 - **[Ops Core](https://github.com/elura172/ops-core)** — Dry-run-first operations platform for cataloging, pricing, inventory sync, and anti-overselling guarantees.
 - **[Sovereign Cloud Platform](https://github.com/elura172/sovereign-cloud-platform)** — Zero-vendor-lock-in platform on CNCF standards with GitOps, Prometheus observability, and Cloudflare edge.
